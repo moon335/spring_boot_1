@@ -119,6 +119,7 @@ public class GetApiController {
 	}
 	
 	
+	
 	// http://localhost:8080/api/name/흥아
 	// DTO 맵핑은 @PathVariable 선언 없이 사용하자
 	// DTO 안에 맵핑할 변수와 키 값이 같아야 한다.
