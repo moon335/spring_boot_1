@@ -38,5 +38,10 @@ public class ApiController {
 		return reqUser;
 	}
 	
+	@GetMapping("/test")
+	public String test() {
+		return "TEST ";
+	}
+	
 	
 } // end of class
